@@ -1,0 +1,88 @@
+{
+    "status": "SUCCESS",
+    "message": "user expense history",
+    "count": 8,
+    "expenseSum": 2500,
+    "items": [
+        {
+            "pkUserExpenseId": 1,
+            "catagory": "foodsss",
+            "name": "wjw",
+            "cost": 100,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2020-11-24 12:49:57"
+        },
+        {
+            "pkUserExpenseId": 8,
+            "catagory": "foods",
+            "name": "xdk",
+            "cost": 200,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2020-11-24 12:49:57"
+        },
+        {
+            "pkUserExpenseId": 9,
+            "catagory": "shop",
+            "name": "xjdx",
+            "cost": 400,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2023-11-20 02:22:22"
+        },
+        {
+            "pkUserExpenseId": 10,
+            "catagory": "food",
+            "name": "xdnjdx",
+            "cost": 300,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2020-11-24 12:49:57"
+        },
+        {
+            "pkUserExpenseId": 11,
+            "catagory": "sample",
+            "name": "xkdjnx",
+            "cost": 400,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2020-11-24 12:49:57"
+        },
+        {
+            "pkUserExpenseId": 17,
+            "catagory": "food",
+            "name": "hhh",
+            "cost": 100,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2024-11-20 09:52:07"
+        },
+        {
+            "pkUserExpenseId": 16,
+            "catagory": "shop",
+            "name": "xnjke",
+            "cost": 400,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2020-11-24 12:49:57"
+        },
+        {
+            "pkUserExpenseId": 18,
+            "catagory": "food",
+            "name": "kk",
+            "cost": 600,
+            "date": "2020-11-20",
+            "month": 11,
+            "year": 2020,
+            "lastUpdatedOn": "2020-11-24 12:49:17"
+        }
+    ]
+}
